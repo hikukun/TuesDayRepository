@@ -4,5 +4,5 @@ using namespace std;
 
 void Inumaki::UseTechnique()
 {
-	cout << "ŽôŒ¾‚ðŽg‚¤\n";
+	cout << "ŽôŒ¾‚ðŽg‚¤" << endl;
 }

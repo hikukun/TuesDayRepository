@@ -10,8 +10,7 @@ int main(void)
 	Megumi megumi;
 	Gojo gojo;
 
-	Sorcerer* sorcerer[3] = { &inumaki, &megumi, &gojo };
-
+	Sorcerer* sorcerer[3] = {&inumaki, &megumi, &gojo};
 
 	for (int i = 0; i < 3; i++)
 	{

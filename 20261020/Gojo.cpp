@@ -4,5 +4,5 @@ using namespace std;
 
 void Gojo::UseTechnique()
 {
-	cout << "領域展開を使用する\n";
+	cout << "領域展開を使用する" << endl;
 }

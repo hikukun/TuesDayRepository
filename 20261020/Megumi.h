@@ -9,6 +9,8 @@ public:
 		hp = 100;
 		energy = 80;
 	}
+
 	void UseTechnique()override;
+
 };
 

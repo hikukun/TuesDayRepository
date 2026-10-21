@@ -4,5 +4,5 @@ using namespace std;
 
 void Megumi::UseTechnique()
 {
-	cout << "Ž®_‚ð¢Š«‚·‚é\n";
+	cout << "Ž®_‚ð¢Š«‚·‚é" << endl;
 }
