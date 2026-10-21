@@ -1,7 +1,10 @@
 #pragma once
+#include<string>
+using namespace std;
 class Sorcerer
 {
 public:
+	string name;
 	int hp;
 	int energy;
 

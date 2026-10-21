@@ -4,5 +4,7 @@ using namespace std;
 
 void Sorcerer::ShowStatus()
 {
-	cout << "‘Ì—Í" << hp << "\nŽô—Í" << energy << endl;
+	cout << name << endl;
+	cout << "‘Ì—Í" << hp << endl;
+	cout << "Žô—Í" << energy << endl;
 }

@@ -3,8 +3,12 @@
 class Megumi: public Sorcerer
 {
 public:
-	int hp = 100;
-	int energy = 80;
+	Megumi()
+	{
+		name = "megumi";
+		hp = 100;
+		energy = 80;
+	}
 	void UseTechnique()override;
 };
 

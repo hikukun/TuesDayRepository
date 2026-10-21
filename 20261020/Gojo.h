@@ -3,8 +3,12 @@
 class Gojo: public Sorcerer
 {
 public:
-	int hp = 999;
-	int energy = 999;
+	Gojo()
+	{
+		name = "gojo";
+		hp = 999;
+		energy = 999;
+	}
 	void UseTechnique()override;
 };
 
